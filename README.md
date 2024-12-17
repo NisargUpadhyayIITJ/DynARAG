@@ -34,7 +34,7 @@ Dynamic Agentic RAG is an application that leverages dynamic agent creation to p
 
 ## Demo Video
 <div align="center">
-  <img src="./frontend/assets/readmedemo.gif" alt="gif" width="400"/>
+  <img src="./frontend/assets/readmedemo.gif" alt="gif" width="900"/>
 </div>
 
 ## Methodology
